@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Maaz, based in Kuala Lumpur
 - 👀 I’m interested in data analytics, ML models, nueral networks etc.
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a media planning package for Python - Check my repository on github: maazkhan86/mediaplanning
 - 📫 How to reach me: maazkhan700@gmail.com
 
